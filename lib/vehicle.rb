@@ -10,5 +10,7 @@ class Vehicle
     "vrrrrrrrooom!"
   end 
   
-  
+  def 
+    "filling up!"
+  end 
 end
